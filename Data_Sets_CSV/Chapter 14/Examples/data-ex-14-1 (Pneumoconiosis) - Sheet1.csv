@@ -1,9 +1,9 @@
-,Number of Years of Exposure,Number of Severe Cases,Total Number of Miners,"Proportion of Severe Cases, y"
-0,5.8,0,98,0.0
-1,15.0,1,54,0.0185
-2,21.5,3,43,0.0698
-3,27.5,8,48,0.1667
-4,33.5,9,51,0.1765
-5,39.5,8,38,0.2105
-6,46.0,10,28,0.3571
-7,51.5,5,11,0.4545
+Number of Years of Exposure,Number of Severe Cases,Total Number of Miners,"Proportion of Severe Cases, y"
+5.8,0,98,0.0
+15.0,1,54,0.0185
+21.5,3,43,0.0698
+27.5,8,48,0.1667
+33.5,9,51,0.1765
+39.5,8,38,0.2105
+46.0,10,28,0.3571
+51.5,5,11,0.4545
